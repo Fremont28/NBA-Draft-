@@ -9,4 +9,6 @@ The features used in the model include the draft pick’s college statistics (i.
 
 The multi-class Keras model was built with 28 features using a Softmax activation function (which essentially measures the probability that any of the classes are true). A dropout layer was also added to avoid overfitting the neural network. 
 
+Read Here for a brief comparison between power and non-power conference draft selections: https://beyondtheaverage.wordpress.com/2018/05/25/non-power-conference-players-can-dominate-in-the-nba/
+
 Source: https://keras.io/getting-started/sequential-model-guide/
